@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <font
+        android:fontStyle="normal"
+        android:font="@font/noto_thin"
+        android:fontWeight="100"/>
+
+    <font
+        android:fontStyle="normal"
+        android:font="@font/noto_light"
+        android:fontWeight="200"/>
+
+    <font
+        android:fontStyle="normal"
+        android:font="@font/noto_demilight"
+        android:fontWeight="300"/>
+
+    <font
+        android:fontStyle="normal"
+        android:font="@font/noto_regular"
+        android:fontWeight="400"/>
+
+    <font
+        android:fontStyle="normal"
+        android:font="@font/noto_medium"
+        android:fontWeight="500"/>
+
+    <font
+        android:fontStyle="normal"
+        android:font="@font/noto_bold"
+        android:fontWeight="600"/>
+    <font
+        android:fontStyle="normal"
+        android:font="@font/noto_black"
+        android:fontWeight="700"/>
+    <font
+        android:fontStyle="normal"
+        android:font="@font/apple_neob"
+        android:fontWeight="800"/>
+    <font
+        android:font="@font/sfp"
+        android:fontWeight="900"
+        android:fontStyle="normal"/>
+</font-family>
